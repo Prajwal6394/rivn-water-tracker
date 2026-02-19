@@ -121,6 +121,7 @@ function App() {
           <div className="flex items-center justify-center gap-3 mb-4">
             <Droplets className="w-12 h-12 text-blue-200" strokeWidth={1.5} />
           </div>
+          <h1 className="text-5xl font-light text-white mb-2 tracking-wide">Rivn</h1>
           <h1 className="text-5xl font-light text-white mb-2 tracking-wide">Pure Himalayan</h1>
           <p className="text-blue-200 text-lg font-light italic">Refined with precision.</p>
         </header>
